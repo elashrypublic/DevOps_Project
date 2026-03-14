@@ -21,7 +21,7 @@ Architecture :
 ![alt text](94eb5febd47d7d2fafbd8f507826a6639dae9089_2_690x388.png)
 
 
-
+```
                 ┌──────────────┐
                 │    Client     │
                 │  Browser/API  │
